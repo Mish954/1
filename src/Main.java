@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
 
-     var apple = 20;
+    var apple = 20;
     //System.out.println(apple);
     //System.out.println("у меня яблок "+apple);
     //var x = 50;
