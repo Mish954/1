@@ -5,8 +5,8 @@ void main() {
     //var apple = 20;
     //System.out.println(apple);
     //System.out.println("у меня яблок "+apple);
-    var x = 50;
-    var y = 56;
+    //var x = 50;
+    //var y = 56;
     //System.out.println(x + y);
     //System.out.println(x - y);
     //System.out.println(x * y);
